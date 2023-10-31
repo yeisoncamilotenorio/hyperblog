@@ -9,5 +9,8 @@ learning
 * el flujo de trabajo en github 
 * trucos muy locos del profesor
 * creado por el increible platzi
+* incluye ejemplos 
+* disponible para todas las edades 
+
 
 y como un amable recordatorio: **este readme.md es un chiste** diseñado para ejemplo.ss
