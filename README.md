@@ -4,9 +4,10 @@ un blog increíble para el curso de git y github de platzi
 learning
 > -niñita 
 
-##en este curso vemos de todo:
+## en este curso vemos de todo:
 * todos los comandos de git 
 * el flujo de trabajo en github 
 * trucos muy locos del profesor
+* creado por el increible platzi
 
 y como un amable recordatorio: **este readme.md es un chiste** diseñado para ejemplo.ss
